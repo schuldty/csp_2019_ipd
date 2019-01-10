@@ -1,4 +1,4 @@
-This file started on my desktop
+This file started on my desktop, then uploaded to git
 I'll try to pull from git to c9
 this worked with
 git pull origin master
